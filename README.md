@@ -33,7 +33,7 @@ This installer:
 
 # Installation 
 
-Go to the releases section and scroll to the bottom of the page then download Chips64bit_102DalmatiansInstaller.exe you can run it from anywhere, just make sure that you have the english original disc of the game mounted and then you can point the installer to that disc.
+Go to the releases section and scroll to the bottom of the page then download Chips64bit_102DalmatiansInstaller.exe you can run it from anywhere, just make sure that you have the English original disc of the game mounted and then you can point the installer to that disc.
 
 Then just follow the instructions in the installer and it will create a shortcut on your desktop then you can run that and play the game. 
 
@@ -102,7 +102,7 @@ If launching the game through Steam, disable Steam Input in the game’s control
 
 (This is for D3D9.dll and D3d9.INI for the controller support part)
 
-It is possible on some versions of the hame the pcgw method may cause crashing.
+It is possible on some versions of the game the pcgw method may cause crashing.
 
 Example layout with the above method:
 
