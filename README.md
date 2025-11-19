@@ -88,6 +88,8 @@ All files installed by this installer are removed when uninstalling the game.
 
 Included with the installer optionally.
 
+This re enables the original xinput controller support for the game. 
+
 You can edit the controls in the game control options by clicking on a joystick inpit presing the button you want on the controller and pressing enter on the keyboard then save and you have the controls you want.
 
 If launching the game through Steam, disable Steam Input in the game’s controller options.
@@ -99,6 +101,8 @@ If launching the game through Steam, disable Steam Input in the game’s control
 [![PCGamingWiki](https://img.shields.io/badge/PCGamingWiki-File%20Page-0066cc?style=flat&logo=pcgamingwiki&logoColor=white)](https://community.pcgamingwiki.com/files/file/3729-chipxinput-102-dalmatians-controller-calibration-fix/)
 
 (This is for D3D9.dll and D3d9.INI for the controller support part)
+
+It is possible on some versions of the hame the pcgw method may cause crashing.
 
 Example layout with the above method:
 
