@@ -90,7 +90,7 @@ Included with the installer optionally.
 
 This re enables the original xinput controller support for the game. 
 
-You can edit the controls in the game control options by clicking on a joystick inpit presing the button you want on the controller and pressing enter on the keyboard then save and you have the controls you want.
+You can edit the controls in the game control options by clicking on a joystick input pressing the button you want on the controller and pressing enter on the keyboard then save and you have the controls you want.
 
 If launching the game through Steam, disable Steam Input in the game’s controller options.
 
