@@ -88,6 +88,8 @@ All files installed by this installer are removed when uninstalling the game.
 
 Included with the installer optionally.
 
+You can edit the controls in the game control options by clicking on a joystick inpit presing the button you want on the controller and pressing enter on the keyboard then save and you have the controls you want.
+
 If launching the game through Steam, disable Steam Input in the game’s controller options.
 
 ---
